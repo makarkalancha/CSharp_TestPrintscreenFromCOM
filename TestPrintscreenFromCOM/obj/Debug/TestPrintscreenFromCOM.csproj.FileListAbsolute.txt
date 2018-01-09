@@ -1,0 +1,22 @@
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\bin\Debug\TestPrintscreenFromCOM.exe
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\bin\Debug\TestPrintscreenFromCOM.pdb
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.Form1.resources
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.Properties.Resources.resources
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.csproj.GenerateResource.Cache
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.exe
+C:\Users\Makar\AppData\Local\Temporary Projects\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.pdb
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.exe
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.pdb
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\bin\Debug\TestPrintscreenFromCOM.exe
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\bin\Debug\TestPrintscreenFromCOM.pdb
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\ResolveAssemblyReference.cache
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.Properties.Resources.resources
+F:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.csproj.GenerateResource.Cache
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\bin\Debug\TestPrintscreenFromCOM.exe
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\bin\Debug\TestPrintscreenFromCOM.pdb
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\ResolveAssemblyReference.cache
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.Properties.Resources.resources
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.csproj.GenerateResource.Cache
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.exe
+D:\SRC\C#_dir_workspace\Projects\TestPrintscreenFromCOM\TestPrintscreenFromCOM\obj\Debug\TestPrintscreenFromCOM.pdb
